@@ -1,4 +1,6 @@
 # Late-night-snacks_node.js-mysql
+시연 영상
+https://www.youtube.com/watch?v=2W-BqPaD2o8
 
 ## 20142731 우승민
 네트워크서비스 프로토콜 과제
